@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anannanag
 - 👀 I’m interested in Matlab
 - 🌱 I’m currently learning data acqisition technique 
-- 💞️ I’m looking to collaborate on Matlab programmer
+- 💞️ I’m looking to collaborate on peak detection on ECG 
 - 📫 How to reach me on my email
 
 <!---
